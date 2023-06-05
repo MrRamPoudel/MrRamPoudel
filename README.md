@@ -20,9 +20,7 @@ Here are some things about me:
 - 🎸 I love playing electric guitar
 - 🛹 I'm learning to skate
 - 📗 Obsessed with learning
-
 ### What I use
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
@@ -34,5 +32,9 @@ Here are some things about me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="c++" **alt="c++" width ="40" height = "40" /> 
-  
 </div>
+
+### My Stats:
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
