@@ -15,3 +15,15 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRIC}}
+          base: repositories, header, activity
+          config_timezone: America/New_York
+
+          plugin_activity: yes
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_lines: yes
+          plugin_lines_sections: repositories, base
