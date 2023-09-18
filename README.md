@@ -19,7 +19,7 @@ Here are some things about me:
   - Minor in Applied Math
 - 🎸 I love playing electric guitar
 - 🛹 I'm learning to skate
-- 📗 Currently reading: No Longer Human - Osamu Dazai
+- 📗 Currently reading: When Breath Becomes Air - Paul Kalanithi
 ### What I use
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
